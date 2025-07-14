@@ -18,3 +18,4 @@ console.log(result);
 let result2 : number | undefined = undefined;
 result2 = 3;
 console.log(result2)
+
